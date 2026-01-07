@@ -14,11 +14,12 @@
 	- Matlab (though it's somewhat rusty)
 - I’m looking to collaborate on fun things with my friends. 
 - I'm most accessible through Discord, at robokitty77
-	* Please say SOMETHING that serves to distinguish yourself from spam if you message me!
+	- Please say SOMETHING that serves to distinguish yourself from spam if you message me!
 - I don't care what pronouns you use for me
 - I prefer gender neutral nouns and terms of address
 - I have autism and ADHD, my interests and activities flit around rapidly!
-	* I rarely find myself without a personal programming project occupying my time
+	- I rarely find myself without a personal programming project occupying my time
+	- While I almost never post projects, I'm on itch.io as thetwinerycat
 
 <!---
 Robokitty77/Robokitty77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
